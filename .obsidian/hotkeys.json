@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "obsidian-git:commit-push-specified-message": [
+=======
+  "obsidian-git:commit-specified-message": [
+>>>>>>> da8e4068399d203257983f52326ac07b9a60c338
     {
       "modifiers": [
         "Mod",

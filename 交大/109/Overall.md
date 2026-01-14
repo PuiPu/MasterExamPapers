@@ -1,5 +1,10 @@
 ## tree
 1. B-tree
+2. Binary Search Tree
+	1. deletion 需要找 successor/predecessor
+	2. 因為 BST 沒辦法確保 height，所以 search 會落在 O(nlogn) ~ O(n) [skew tree]
+		1. 因此要保有 tree operation 的優勢，所以才會有 balance tree 的出現 -> (1) AVL tree (2) red-black tree
+3. 
 ## graph
 1. graph connection (DS TEXTBOOK def.)
 	1. connected component
