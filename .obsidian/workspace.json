@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "交大/109/資演.md",
+                "file": "成大/113/Overall.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "資演"
+              "title": "Overall"
             }
           }
         ]
@@ -183,28 +183,33 @@
   },
   "active": "0c065d58d3316fc0",
   "lastOpenFiles": [
-    "交大/109/交109硬.pdf",
-    "orignal/交大資訊聯招/109交大_計算機系統 1.pdf",
-    "orignal/交大資訊聯招/109交大_線性代數與離散數學 1.pdf",
+    "成大/113/資演.md",
+    "成大/113/成大113數.pdf",
+    "成大/113/Overall.md",
+    "img/Pasted image 20260116140138.png",
+    "img/Pasted image 20260116135857.png",
+    "img/Pasted image 20260116135836.png",
+    "img/Pasted image 20260116135813.png",
+    "img/Pasted image 20260116135753.png",
+    "img/Pasted image 20260115153907.png",
+    "img/Pasted image 20260115153850.png",
+    "img/Pasted image 20260115153816.png",
+    "img/Pasted image 20260115153803.png",
+    "img/Pasted image 20260115153745.png",
+    "成大/113/系統.md",
+    "新增 文字文件.txt",
     "交大/109/資演.md",
-    "img/Pasted image 20260106164952.png",
-    "img/Pasted image 20260106164941.png",
-    "img/Pasted image 20260106164928.png",
-    "img/Pasted image 20260106164910.png",
-    "img/Pasted image 20260106164853.png",
-    "img/Pasted image 20260106164842.png",
-    "img/Pasted image 20260106164829.png",
-    "img/Pasted image 20260106164813.png",
-    "img/Pasted image 20260106164756.png",
-    "img/Pasted image 20260106164739.png",
+    "成大/113",
+    "成大",
+    "orignal/成大資訊聯招/113/113成大_計算機組織與系統.pdf",
+    "orignal/成大資訊聯招/113/113成大_計算機數學.pdf",
+    "orignal/成大資訊聯招/113/113成大_考試科目.pdf",
+    "orignal/成大資訊聯招/113/113成大_程式設計.pdf",
+    "orignal/成大資訊聯招/112/112成大_計算機組織與系統.pdf",
+    "orignal/成大資訊聯招/112/112成大_計算機數學.pdf",
     "交大/109/Overall.md",
-    "TEXTBOOK/OS ppt/~$ch3.pptx",
-    "TEXTBOOK/OS ppt/ch9.pptx",
-    "TEXTBOOK/OS ppt/ch8.pptx",
-    "TEXTBOOK/OS ppt/ch7.pptx",
-    "TEXTBOOK/OS ppt/ch6.pptx",
-    "TEXTBOOK/OS ppt/ch5.pptx",
-    "TEXTBOOK/OS ppt/ch4.pptx",
-    "TEXTBOOK/OS ppt/ch3.pptx"
+    "中央/113/Overall.md",
+    "中央/113/資演.md",
+    "中央/113/數學.md"
   ]
 }
