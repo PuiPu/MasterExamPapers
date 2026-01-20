@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "成大/113/資演.md",
+                "file": "成大/113/Overall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "資演"
+              "title": "Overall"
             }
           }
         ]
@@ -183,8 +183,9 @@
   },
   "active": "0c065d58d3316fc0",
   "lastOpenFiles": [
-    "成大/113/Overall.md",
     "成大/113/資演.md",
+    "成大/113/成大113數.pdf",
+    "成大/113/Overall.md",
     "img/Pasted image 20260116140138.png",
     "img/Pasted image 20260116135857.png",
     "img/Pasted image 20260116135836.png",
@@ -206,7 +207,6 @@
     "orignal/成大資訊聯招/113/113成大_程式設計.pdf",
     "orignal/成大資訊聯招/112/112成大_計算機組織與系統.pdf",
     "orignal/成大資訊聯招/112/112成大_計算機數學.pdf",
-    "orignal/成大資訊聯招/112/112成大_考試科目.pdf",
     "交大/109/Overall.md",
     "中央/113/Overall.md",
     "中央/113/資演.md",
