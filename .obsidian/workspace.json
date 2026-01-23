@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "系統"
             }
+          },
+          {
+            "id": "92a233b80113ba29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,8 +196,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c065d58d3316fc0",
+  "active": "92a233b80113ba29",
   "lastOpenFiles": [
+    "成大/113/系統.md",
+    "conflict-files-obsidian-git.md",
+    "交大/108/資演.md",
+    "交大/108",
+    "img/Pasted image 20260122155229.png",
+    "img/Pasted image 20260122155214.png",
+    "img/Pasted image 20260122153926.png",
+    "img/Pasted image 20260122152925.png",
+    "img/Pasted image 20260122143113.png",
+    "img/Pasted image 20260122142522.png",
+    "img/Pasted image 20260122141906.png",
+    "img/Pasted image 20260122141842.png",
     "ppt2E83.tmp",
     "pptF2E.tmp",
     "pptC25D.tmp",
@@ -195,19 +222,8 @@
     "成大/113/成大113數.pdf",
     "img/Pasted image 20260116140138.png",
     "img/Pasted image 20260116135857.png",
-    "img/Pasted image 20260116135836.png",
-    "img/Pasted image 20260116135813.png",
-    "img/Pasted image 20260116135753.png",
-    "img/Pasted image 20260115153907.png",
-    "img/Pasted image 20260115153850.png",
-    "img/Pasted image 20260115153816.png",
-    "img/Pasted image 20260115153803.png",
-    "img/Pasted image 20260115153745.png",
-    "成大/113/系統.md",
     "新增 文字文件.txt",
     "交大/109/資演.md",
-    "成大/113",
-    "成大",
     "交大/109/Overall.md",
     "中央/113/Overall.md",
     "中央/113/資演.md",
