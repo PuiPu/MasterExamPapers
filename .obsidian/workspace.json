@@ -27,16 +27,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "台大/114/Overall.md",
+                "file": "交大/108/Overall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Overall"
             }
+          },
+          {
+            "id": "cee6b9fdd1258253",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "orignal/交大資訊聯招/108交大_計算機系統.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "108交大_計算機系統"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,22 +207,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72019c96ea59e462",
+  "active": "d50b296dd6bd56cd",
   "lastOpenFiles": [
-    "ppt38A2.tmp",
-    "ppt526C.tmp",
-    "ppt15C5.tmp",
-    "ppt72E1.tmp",
-    "ppt8B4A.tmp",
+    "orignal/交大資訊聯招/108交大_計算機系統.pdf",
+    "orignal/交大資訊聯招/108交大_資料結構與演算法.pdf",
+    "orignal/交大資訊聯招/110交大_計算機系統.pdf",
+    "交大/108/系統.md",
+    "交大/108/數學.md",
+    "交大/108/資演.md",
+    "考研 CO.md",
+    "img/Pasted image 20260202165109.png",
+    "交大/108/Overall.md",
+    "ppt2551.tmp",
     "~$考研.pptx",
-    "台大/83/系統.md",
     "台大/114/Overall.md",
-    "台大/114",
+    "pptACF8.tmp",
+    "ppt326E.tmp",
+    "CO.cpp",
+    "t.cpp",
+    "pptC306.tmp",
+    "ppt38A2.tmp",
+    "台大/83/系統.md",
     "交大/109/Overall.md",
-    "台大/83",
-    "台大",
-    "orignal/台大資工/99台大_軟體設計.pdf",
-    "orignal/台大資工/99台大_計算機系統.pdf",
     "orignal/台大資工/90台大_計算機系統2.jpg",
     "orignal/台大資工/90台大_計算機系統1.jpg",
     "orignal/台大資工/89台大_計算機系統2.jpg",
@@ -221,11 +238,6 @@
     "orignal/台大資工/88台大_數學.jpg",
     "orignal/台大資工/87台大_計算機系統3.jpg",
     "orignal/台大資工/87台大_計算機系統2.jpg",
-    "orignal/台大資工/87台大_計算機系統1.jpg",
-    "交大/108/數學.md",
-    "交大/108/資演.md",
-    "交大/108/系統.md",
-    "交大/108/Overall.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "中央/113/資演.md",

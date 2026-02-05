@@ -37,4 +37,26 @@
 		2. page fault
 			1. LRU (Least recently used)
 5. file system
-	1. 
+# 資演
+1. sort
+	1. quicksort 變形
+2. recurrence
+	1. Akra-Bazzi (general of master theorem)
+	2. solve recurrence relation
+3. machine learning
+	1. c-means clustering algo.
+4. dynamic programming
+	1. LCS 變形 (DNA potein matching)
+5. graph
+	1. all source shortest path 變形 (化學式看成 undirected graph, 做 relaxation)
+	2. max flow (應用在 elimination of sports team in a group)
+	3. BFS (Breadth-First search)
+6. greedy
+	1. 0-1 knapsack
+7. order of growth
+	1. complexity comparison
+8. tree
+	1. binary tree v.s. binary search tree
+9. hash
+	1. "uniform hash family" v.s. "universal hash family"
+	2. collision
