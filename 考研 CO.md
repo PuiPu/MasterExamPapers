@@ -1,3 +1,9 @@
+# 考研重點
+1. data hazard
+2. memory / cache 
+3. 
+
+
 # memory
 ## memory hierachy
 1. 因為 temoral locality (time) & spatil locality (space) 的問題，所以 memory 需要 memory hierachy(spatial locality) 來分配 ![[Pasted image 20260202165109.png]]
