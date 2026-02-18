@@ -1,3 +1,5 @@
+1. 不一定每個 matrix 都有 inverse (left-inverse & right-inverse)，有一些只有 pseudo-inverse
+2. 
 # 重點
 1. concept
 	1. 定義
@@ -11,12 +13,15 @@
 		1. method
 			1. argument matrix (by definition $AB = BA = I$)
 			2. adjoint matrix (recusion definiton)
-	2. determinant
+	2. pseudo-inverse
+		1.  method
+			1. SVD (general solution : 任何情況都適用)
+	3. determinant
 		1. block matrix (divide & conquer)
-	3. linear transformation
+	4. linear transformation
 		1. 求 transition funciton (matrix)
 			1. from $\mathbb{R}^{n} \: to \: \mathbb{R}^{m}$, exist a matrix $A \in \mathbb{R}^{m\:*\:n}$ 
-	4. eigen value/vector
+	5. eigen value/vector
 		1. definition : $Ax = \lambda x$
 		2. method
 			1. $det(A-\lambda I) = 0$
@@ -27,7 +32,7 @@
 				3. $AX = XD, \; A = XDX^{-1}$
 			2. projection matrix
 				1. $P = AX = XDX^{-1}X$
-3. factorization
+4. factorization
 	1. LU decomposition
 		1. 只能用 row operation 3
 	2. QR decomposition
