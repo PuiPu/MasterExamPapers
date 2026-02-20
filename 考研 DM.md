@@ -30,4 +30,10 @@
 		1. 
 5. graph
 	1. coloring
-	2. 
+	2. hamiltonian [Hamiltonian Cycles, Graphs, and Paths | Hamilton Cycles, Graph Theory](https://youtu.be/2UczS2hQLsI?si=v7I4L5jxr4FDevir)
+		1. hamiltonian cycle
+		2. hamiltonain path
+	3. isomorphism
+		1. def : can find 1-1 & coressponding function of vertices
+	4. planar graph
+		1. 

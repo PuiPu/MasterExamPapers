@@ -32,6 +32,7 @@
 			3. page table : translate `logical` to `physical` address
 		3. type
 3. virtual memory
+	- reference : [DAY 22 Virtual Memory(虛擬記憶體) (上)](https://ithelp.ithome.com.tw/m/articles/10208124)
 	1. goal
 	2. page replacement algo.
 		1. First-In-First-Out (FIFO) algo.
@@ -45,3 +46,4 @@
 		1. //
 4. file system
 	1. 
+	2. 
