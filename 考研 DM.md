@@ -30,10 +30,14 @@
 		1. 
 5. graph
 	1. coloring
-	2. hamiltonian [Hamiltonian Cycles, Graphs, and Paths | Hamilton Cycles, Graph Theory](https://youtu.be/2UczS2hQLsI?si=v7I4L5jxr4FDevir)
+	2. trail
+	3. hamiltonian [Hamiltonian Cycles, Graphs, and Paths | Hamilton Cycles, Graph Theory](https://youtu.be/2UczS2hQLsI?si=v7I4L5jxr4FDevir)
 		1. hamiltonian cycle
 		2. hamiltonain path
-	3. isomorphism
+	4. isomorphism
 		1. def : can find 1-1 & coressponding function of vertices
-	4. planar graph
-		1. 
+	5. planar graph
+		- vid : [What are Planar Graphs? | Graph Theory](https://youtu.be/LSkB6jR44aE?si=aXZF3fXcMFzjELZ-)
+		1. def : 沒有 crossing edges 的 graph
+		2. 重要性值 Euler formula : $e + v - f = 2, where \:e \: is \:\#deges, \:v \:is \:\#vertices, \:f \:is \:\#faces(regions)$
+		3. 

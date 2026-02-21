@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "台大/115/系統.md",
+                "file": "考研 OS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "系統"
+              "title": "考研 OS"
             }
           },
           {
@@ -61,8 +61,7 @@
               "title": "考研 OS"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,18 +232,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a976a736bab5460",
+  "active": "d50b296dd6bd56cd",
   "lastOpenFiles": [
-    "考研 DM.md",
     "考研 OS.md",
-    "台大/115/系統.md",
-    "考研 CO.md",
+    "考研 ALL.md",
     "考研 AM.md",
+    "考研 CO.md",
+    "考研 DM.md",
+    "台大/115/系統.md",
     "LATEX_SYMBOL.pdf",
     "2026-02-20.md",
     "Untitled.base",
     "台大/115/資演.md",
-    "考研 ALL.md",
     "考研 DS.md",
     "README.md",
     "考研 LA.md",
