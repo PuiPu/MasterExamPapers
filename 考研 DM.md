@@ -1,3 +1,4 @@
+> 1. graph 很重要多加強
 # 重點
 1. logic
 	1. tautlogy / contradiction
@@ -29,15 +30,29 @@
 	3. RSA
 		1. 
 5. graph
-	1. coloring
-	2. trail
-	3. hamiltonian [Hamiltonian Cycles, Graphs, and Paths | Hamilton Cycles, Graph Theory](https://youtu.be/2UczS2hQLsI?si=v7I4L5jxr4FDevir)
-		1. hamiltonian cycle
-		2. hamiltonain path
+	1. terminology
+		1. trail
+		2. path
+		3. cycle
+	2. vertex coloring
+		1. def : coloring vertices, adjacent vertices has different coloring
+		2. chromatic number $\chi(x)$
+			1. minimum number of color
+		3. k-coloring
+		4. example
+			1. bipartite graph : $\chi(x)=2$
+			2. complete graph : $\chi(K_n) = n$ , 因為每個 vertex 都跟其他 n-1 個 connected，所以必須是 n
+	3. path problem
+		1. eulerian
+			1. eulerain circuit (一筆畫問題)
+				1. each vertices has even degree (1 in, 1 out)
+		2. hamiltonian [Hamiltonian Cycles, Graphs, and Paths | Hamilton Cycles, Graph Theory](https://youtu.be/2UczS2hQLsI?si=v7I4L5jxr4FDevir)
+			1. hamiltonian cycle
+			2. hamiltonain path
 	4. isomorphism
 		1. def : can find 1-1 & coressponding function of vertices
 	5. planar graph
 		- vid : [What are Planar Graphs? | Graph Theory](https://youtu.be/LSkB6jR44aE?si=aXZF3fXcMFzjELZ-)
 		1. def : 沒有 crossing edges 的 graph
 		2. 重要性值 Euler formula : $e + v - f = 2, where \:e \: is \:\#deges, \:v \:is \:\#vertices, \:f \:is \:\#faces(regions)$
-		3. 
+	6. perfect matching
