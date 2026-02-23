@@ -11,22 +11,7 @@
 			1. 原因 : BST 不能保證 height = O(logn)
 			2. type
 				1. AVL tree
-				2. red-black tree
-					1. 5 rules
-						- R1 : root is black
-						- R2 : 
-						- R3 : 
-						- R4 : 
-						- R5 : 
-					- rotation
-						- basic
-							- left rotation
-							- right rotation
-						- extended
-							- LL
-							- LR
-							- RR : y insert at 
-							- RL : y insert at left subtree of right subtree
+				2. [[DS { red black tree }]]
 	3. heap
 		1. 原因 : implement priority queue 很 efficient ( insert : O(logn) , delete : O(logn) )
 		2. heap property

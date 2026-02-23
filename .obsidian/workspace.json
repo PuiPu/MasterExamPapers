@@ -47,7 +47,8 @@
               "title": "108交大_計算機系統"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,8 +208,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d50b296dd6bd56cd",
+  "active": "b01ee626c57ebe93",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "交大/115/數學.md",
+    "交大/115/資演.md",
+    "orignal/交大資訊聯招/115交大_軟體.pdf",
+    "orignal/交大資訊聯招/115交大_系統.pdf",
+    "orignal/交大資訊聯招/115交大_數學.pdf",
+    "img/Pasted image 20260223002104.png",
+    "cards/DS { red black tree }.md",
+    "cards",
     "交大/108/資演.md",
     "交大/108/系統.md",
     "台大/115/資演.md",
@@ -226,15 +236,10 @@
     "考研 AM.md",
     "台大/115/Overall.md",
     "台大/115",
-    "交大/115/數學.md",
     "交大/115/Overall.md",
     "交大/115",
     "orignal/台大資工/115台大_資料結構與演算法.pdf",
     "orignal/台大資工/115台大_計算機系統.pdf",
-    "orignal/台大資工/115台大_數學.pdf",
-    "TEXTBOOK/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf",
-    "LATEX_SYMBOL.pdf",
-    "orignal/交大資訊聯招/108交大_計算機系統.pdf",
     "交大/108/數學.md",
     "考研 CO.md",
     "img/Pasted image 20260202165109.png",
@@ -248,12 +253,8 @@
     "orignal/台大資工/89台大_數學.jpg",
     "orignal/台大資工/88台大_計算機系統.jpg",
     "orignal/台大資工/88台大_數學.jpg",
-    "orignal/台大資工/87台大_計算機系統3.jpg",
     "README.md",
-    "conflict-files-obsidian-git.md",
     "中央/113/資演.md",
-    "中央/113/數學.md",
-    "中央/113/Overall.md",
-    "成大/113/Overall.md"
+    "中央/113/數學.md"
   ]
 }
