@@ -4,10 +4,11 @@
 1. concept
 	1. 定義
 		1. nonsingular = invertible (when matrix A is square matrix)
-		2. elementary matrix
+		2. [[LA { elematry matrix }]]
 		3. positive define $x^TAx > 0$, positive semi-define $x^TAx \ge 0$
 	2. 定理
 		1. rank-nullity theorem
+	3. [[LA { property }]]
 2. calculation
 	1. inverse matrix
 		1. method
@@ -32,7 +33,7 @@
 				3. $AX = XD, \; A = XDX^{-1}$
 			2. projection matrix
 				1. $P = AX = XDX^{-1}X$
-4. factorization
+3. factorization
 	1. LU decomposition
 		1. 只能用 row operation 3
 	2. QR decomposition
