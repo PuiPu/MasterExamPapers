@@ -1,6 +1,9 @@
 ---
 tags:
+cssclasses:
+  - ch11
 ---
+<<<<<<< HEAD
 # HDD scheduling
 1. FCFS scheduling
 2. SCAN scheduling (or evlavator algorithm)
@@ -28,3 +31,6 @@ tags:
 2. mean time between failures (MTBF)
 3. mean time to repair, mean time to data loss
 4. 
+=======
+1. 
+>>>>>>> origin/desktop
