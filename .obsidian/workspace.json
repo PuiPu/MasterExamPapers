@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "交大/115/系統.md",
+                "file": "cards/H-DM { ch6 圖論 }.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "系統"
+              "title": "H-DM { ch6 圖論 }"
+            }
+          },
+          {
+            "id": "8120a7d9ef10c7cd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LATEX_SYMBOL.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LATEX_SYMBOL"
             }
           }
         ],
@@ -198,6 +210,12 @@
   },
   "active": "eeaa35a721782b98",
   "lastOpenFiles": [
+    "img/Pasted image 20260306213618.png",
+    "img/Pasted image 20260306212656.png",
+    "cards/H-DM { ch1 集合論 }.md",
+    "cards/H-DM { ch6 圖論 }.md",
+    "LATEX_SYMBOL.pdf",
+    "交大/115/系統.md",
     "img/Pasted image 20260303220253.png",
     "img/Pasted image 20260303220038.png",
     "img/Pasted image 20260303215538.png",
@@ -215,13 +233,10 @@
     "cards/OS { threads & concurrency }.md",
     "img/Pasted image 20260303204429.png",
     "img/Pasted image 20260303200704.png",
-    "交大/115/系統.md",
     "img/Pasted image 20260302154912.png",
     "img/Pasted image 20260302152151.png",
     "交大/115/資演.md",
-    "img/Pasted image 20260226192455.png",
     "交大/115/數學.md",
-    "LATEX_SYMBOL.pdf",
     "考研 OS.md",
     "cards/DM { concave function }.md",
     "cards/DM { relation }.md",
@@ -230,12 +245,9 @@
     "cards/LA { base }.md",
     "cards/LA { least square problem }.md",
     "cards/LA { partition matrix }.md",
-    "img/Pasted image 20260224132158.png",
     "台大/115/數學.md",
     "台大/115/資演.md",
     "台大/115/系統.md",
-    "cards/LA { property }.md",
-    "cards/LA { elematry matrix }.md",
     "orignal/交大資訊聯招/108交大_計算機系統.pdf",
     "orignal/交大資訊聯招/115交大_軟體.pdf",
     "orignal/交大資訊聯招/115交大_系統.pdf",
