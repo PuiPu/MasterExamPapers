@@ -34,3 +34,18 @@ cssclasses:
 		4. significant data sharing among threads
 # implict threading
 1. thread pooling
+# threading issue
+1. fork() & exec() system calls
+	1. exec() is called immediately after forking, duplicating all threads is unecessory
+	2. seperate process doesn't call exec() after forking, the seperate process should duplicate all threads
+2. signal handling (考試會考)
+	1. sychronously
+		1. example : illegal memory access & division by 0
+	2. asychronously
+		1. goal : need to delivered to thread causing the signal and not to other threads in process
+		2. example : kill(pid_t pid, int signal)
+3. thread cancellation
+	1. type
+		1. asynchorchronous cancellation : one thread immediately terminates the targer thread
+		2. defereed(延遲) cancellation
+4. 
