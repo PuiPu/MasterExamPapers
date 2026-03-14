@@ -1,6 +1,8 @@
 ---
 tags:
 TB: p.399
+cssclasses:
+  - ch10
 ---
 [Copy-on-Write](https://hackmd.io/@pipibear/B1jl4GR_p)
 # paging
