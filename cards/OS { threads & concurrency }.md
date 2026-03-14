@@ -48,4 +48,5 @@ cssclasses:
 	1. type
 		1. asynchorchronous cancellation : one thread immediately terminates the targer thread
 		2. defereed(延遲) cancellation
-4. 
+4. thread-local storage (TLS)
+	1. 
