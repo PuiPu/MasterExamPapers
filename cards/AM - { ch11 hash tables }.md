@@ -40,6 +40,10 @@ cssclasses:
 		1. number theory
 # 11.4 open addressing
 1. probe
-	1. Q: easy to insert, but complex to delete
+	1. probe sequence : $<h(k,0), h(k,1), \cdots, h(k,m-1)>$
+		1. permutation of $<0, 1, \cdots, m-1>$
+	2. Problem : easy to insert, but complex to delete
 2. double hashing
+	1. $h(k,i) = (h_1(k) + ih_2(k)) \: mod \: m$
+		1. $h_1, h_2$ are called *auxiliary hash functions*
 3. 
