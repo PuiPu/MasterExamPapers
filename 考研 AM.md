@@ -1,4 +1,21 @@
+# recursion
+[[AM { ch4 divide and conquer }]]
+# binary search tree (BST)
+[[AM { ch12 binary search tree }]]
+[[AM { ch13 red-black tree }]]
+>  note : red-black tree 的 insert/delete 都是從基本的 BST 去延伸而來的
+1. 是 binary search 性質的 tree
+2. operation : in O(h)
+	1. insert
+	2. delete
+3. balanced BST
+	1. 因為如果 binary tree 沒有 insert/delete 好的話，就無法保證 operation 在 O(nlgn) 內
+	2. rotation $\rightarrow$ 因為 insert/delete 會影響 property
+	3. type
+		1. AVL tree
+		2. red-black tree
 # hash
+[[AM { ch11 hash tables }]]
 1. form : (key , value) pair
 2. method
 	1. division method : $k \: mod \: m$
