@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1eab8b1fcf28fbcb",
@@ -184,12 +183,21 @@
   },
   "active": "d5f8becb7d31dcf6",
   "lastOpenFiles": [
+    "img/Pasted image 20260511222320.png",
+    "AM.pptx",
+    "~$AM.pptx",
+    "img/Pasted image 20260511172538.png",
+    "img/Pasted image 20260511172514.png",
+    "img/Pasted image 20260511143625.png",
+    "img/Pasted image 20260511143139.png",
+    "img/Pasted image 20260506185757.png",
+    "img/Pasted image 20260506185720.png",
+    "[AM { ch4 divide and conquer }.md",
+    "cards/AM { ch14 dynamic programming }.md",
     "img/Pasted image 20260430235111.png",
     "img/81259.jpg",
     "考研 AM.md",
-    "cards/AM { ch14 dynamic programming }.md",
     "cards/AM { ch4 divide and conquer }.md",
-    "[AM { ch4 divide and conquer }.md",
     "cards/AM { ch11 hash tables }.md",
     "考研 CO.md",
     "考研 DM.md",
@@ -210,25 +218,16 @@
     "cards/OS { static linking & dynamic linking }.md",
     "img/Pasted image 20260419151815.png",
     "conflict-files-obsidian-git.md",
-    "img/Pasted image 20260419142938.png",
-    "img/Pasted image 20260419140121.png",
-    "img/Pasted image 20260419132625.png",
     "cards/CO { introduction }.md",
     "TEXTBOOK/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf",
     "LATEX_SYMBOL.pdf",
     "cards/H-CO { ch4 處理器 資料路徑與控制 }.md",
     "cards/H-CO { ch2 計算機算數 }.md",
-    "img/Pasted image 20260313193501.png",
-    "img/Pasted image 20260313193452.png",
-    "img/Pasted image 20260313173200.png",
-    "img/Pasted image 20260313172132.png",
     "orignal/交大資訊聯招/110交大_線性代數與離散數學.pdf",
     "orignal/交大資訊聯招/108交大_計算機系統.pdf",
     "orignal/交大資訊聯招/115交大_軟體.pdf",
     "orignal/交大資訊聯招/115交大_系統.pdf",
     "orignal/交大資訊聯招/115交大_數學.pdf",
-    "cards",
-    "Untitled.base",
-    "TEXTBOOK/Linear_Algebra_with_Applications_Global_Edition_by_Leon_Steven_de_Pillis_Lisette_z-lib.org.pdf"
+    "cards"
   ]
 }
