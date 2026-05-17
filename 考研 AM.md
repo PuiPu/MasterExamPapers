@@ -1,5 +1,9 @@
 # recursion
 [[AM { ch4 divide and conquer }]]
+# dynamic programming (DP)
+[[AM { ch14 dynamic programming }]]
+- 確保每一步都是 optimal (P1: Optimal substructure)，接著在推至最後為 optimal solution
+- DP 有價值的地方 (P2: Overlapping subproblem)，不然用 recursion 就可以解決了，DP 也不會增加效能
 # binary search tree (BST)
 [[AM { ch12 binary search tree }]]
 [[AM { ch13 red-black tree }]]

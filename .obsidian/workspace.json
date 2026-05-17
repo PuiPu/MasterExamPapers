@@ -11,14 +11,24 @@
             "id": "d5f8becb7d31dcf6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "cards/AM { ch14 dynamic programming }.md",
-                "mode": "source",
-                "source": false
+                "file": "orignal/交大資訊聯招/107交大_計算機系統.pdf"
               },
-              "icon": "lucide-file",
-              "title": "AM { ch14 dynamic programming }"
+              "icon": "lucide-file-text",
+              "title": "107交大_計算機系統"
+            }
+          },
+          {
+            "id": "372a0f3e87c51a24",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LATEX_SYMBOL.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LATEX_SYMBOL"
             }
           }
         ]
@@ -183,20 +193,25 @@
   },
   "active": "d5f8becb7d31dcf6",
   "lastOpenFiles": [
-    "img/Pasted image 20260511222320.png",
+    "cards/AM { ch24 maximum flow }.md",
+    "img/Pasted image 20260516235323.png",
+    "img/Pasted image 20260516234611.png",
+    "img/Pasted image 20260516234355.png",
+    "img/Pasted image 20260516232139.png",
+    "img/Pasted image 20260516231826.png",
+    "img/Pasted image 20260516231708.png",
+    "cards/AM { ch16 amortized analysis }.md",
+    "img/Pasted image 20260515180038.png",
+    "LATEX_SYMBOL.pdf",
+    "img/Pasted image 20260515171251.png",
+    "cards/AM { ch14 dynamic programming }.md",
+    "cards/AM { ch15 greedy algorithm }.md",
+    "img/Pasted image 20260514184643.png",
+    "img/Pasted image 20260514152629.png",
+    "考研 AM.md",
     "AM.pptx",
     "~$AM.pptx",
-    "img/Pasted image 20260511172538.png",
-    "img/Pasted image 20260511172514.png",
-    "img/Pasted image 20260511143625.png",
-    "img/Pasted image 20260511143139.png",
-    "img/Pasted image 20260506185757.png",
-    "img/Pasted image 20260506185720.png",
     "[AM { ch4 divide and conquer }.md",
-    "cards/AM { ch14 dynamic programming }.md",
-    "img/Pasted image 20260430235111.png",
-    "img/81259.jpg",
-    "考研 AM.md",
     "cards/AM { ch4 divide and conquer }.md",
     "cards/AM { ch11 hash tables }.md",
     "考研 CO.md",
@@ -204,7 +219,6 @@
     "cards/AM { ch13 red-black tree }.md",
     "cards/AM { ch12 binary search tree }.md",
     "cards/AM { ch10 elementary data structure }.md",
-    "img/Pasted image 20260430194612.png",
     "交大/109/資演.md",
     "cards/CO { pipeline }.md",
     "cards/OS { Deadlock }.md",
@@ -216,13 +230,8 @@
     "cards/OS { threads & concurrency }.md",
     "cards/OS { synchronization tools }.md",
     "cards/OS { static linking & dynamic linking }.md",
-    "img/Pasted image 20260419151815.png",
     "conflict-files-obsidian-git.md",
-    "cards/CO { introduction }.md",
     "TEXTBOOK/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf",
-    "LATEX_SYMBOL.pdf",
-    "cards/H-CO { ch4 處理器 資料路徑與控制 }.md",
-    "cards/H-CO { ch2 計算機算數 }.md",
     "orignal/交大資訊聯招/110交大_線性代數與離散數學.pdf",
     "orignal/交大資訊聯招/108交大_計算機系統.pdf",
     "orignal/交大資訊聯招/115交大_軟體.pdf",

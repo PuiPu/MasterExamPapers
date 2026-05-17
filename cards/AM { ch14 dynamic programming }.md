@@ -76,6 +76,7 @@ note: 搞懂 recursion 以後，其實就很簡單了 (code 的架構就是根�
 # 14.5 optimal binary search tree
 - 增加 dummy key $d_0, d_1, \cdots, d_n$ $\rightarrow$ 是因為有可能沒有在 search tree 裡面
 - search
-	- successful : some key $k_i$
-	- unsuccessful : dummy node
+	- successful : some key $k_i$ $\rightarrow$ probability $p_i$
+	- unsuccessful : dummy node $d_i$ $\rightarrow$ probability $q_i$
+	- $\Sigma_{i=1}^{n} p_i + \Sigma_{i=0}^{n} q_i = 1$
 
