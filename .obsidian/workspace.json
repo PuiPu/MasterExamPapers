@@ -11,12 +11,14 @@
             "id": "d5f8becb7d31dcf6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "orignal/交大資訊聯招/107交大_計算機系統.pdf"
+                "file": "交大/107/系統.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "107交大_計算機系統"
+              "icon": "lucide-file",
+              "title": "系統"
             }
           },
           {
@@ -193,6 +195,12 @@
   },
   "active": "d5f8becb7d31dcf6",
   "lastOpenFiles": [
+    "img/Pasted image 20260519205504.png",
+    "交大/108/系統.md",
+    "交大/107/系統.md",
+    "交大/108/資演.md",
+    "orignal/交大資訊聯招/107交大_計算機系統.pdf",
+    "交大/107",
     "cards/AM { ch24 maximum flow }.md",
     "img/Pasted image 20260516235323.png",
     "img/Pasted image 20260516234611.png",
@@ -228,15 +236,10 @@
     "cards/OS { software trap & hardware interrupt }.md",
     "cards/OS { virtual memory }.md",
     "cards/OS { threads & concurrency }.md",
-    "cards/OS { synchronization tools }.md",
-    "cards/OS { static linking & dynamic linking }.md",
-    "conflict-files-obsidian-git.md",
     "TEXTBOOK/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf",
     "orignal/交大資訊聯招/110交大_線性代數與離散數學.pdf",
     "orignal/交大資訊聯招/108交大_計算機系統.pdf",
     "orignal/交大資訊聯招/115交大_軟體.pdf",
-    "orignal/交大資訊聯招/115交大_系統.pdf",
-    "orignal/交大資訊聯招/115交大_數學.pdf",
-    "cards"
+    "orignal/交大資訊聯招/115交大_系統.pdf"
   ]
 }
