@@ -1,0 +1,24 @@
+# service
+- OS 提供可以執行 programs 的環境 ![[Pasted image 20260707113013.png]]
+- user interfaces
+	- GUI (Graphic User Interface)
+	- CLI (Command Line Interface)
+	- touch screen
+- I/O operations
+	- 為了 efficiency and protection, user 不能直接控制 I/O devices
+- file system
+	- read/write files directories
+	- create, delete by name
+- communication
+	- shared memory
+	- message passing : packets with predefined formats
+- error detection
+	- 如果發生 errors, OS 要 detecting & correcting error
+- resource allocation
+	- 當有 multiple users 使用時，要分配資源
+	- ex. CPU scheduling，確保可以最佳使用 CPU 資源
+- logging
+	- keep tracking programs use how much system resources (<u>accounting</u>)
+- protection and security
+	- protection : 當在多個程式同時(concurrently)執行時，確保一個 process 不會去 interfere others
+	- security : 通常是用來防止 outsiders 去
