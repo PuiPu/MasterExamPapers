@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f475022f0826225",
+        "id": "dcef86c2a9aad7a9",
         "type": "tabs",
         "children": [
           {
-            "id": "b20f50f13bd0295a",
+            "id": "b059932bb6743483",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -180,14 +180,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "72019c96ea59e462",
+  "active": "b059932bb6743483",
   "lastOpenFiles": [
-    "刷題庫/2026.8.16/檢討.md",
+    "刷題庫/2026.8.17/檢討.md",
+    "刷題庫/2026.8.17/2026.8.18 meet.pdf",
+    "刷題庫/2026.8.17/交大 100 OS.md",
+    "刷題庫/2026.8.17/2026.8.18 meet.xopp~",
+    "刷題庫/2026.8.17/2026.8.18 稿.md",
     "刷題庫/2026.8.16/2026.8.16 meet.pdf",
+    "刷題庫/2026.8.16/2026.8.16 稿.md",
+    "刷題庫/2026.8.17/2026.8.18 meet.xopp",
+    "刷題庫/2026.8.16/檢討.md",
+    "刷題庫/2026.8.17",
     "刷題庫/2026.8.16/2026.8.16 final_note.md",
     "img/Pasted image 20260816121803.png",
     "LATEX_SYMBOL.pdf",
-    "刷題庫/2026.8.16/2026.8.16 稿.md",
     "刷題庫/2026.8.16",
     "刷題庫/2026.6.16 meet.xopp~",
     "刷題庫/2026.8.16/2026.8.16 meet.xopp",
@@ -198,10 +205,6 @@
     "img/Pasted image 20260816084254.png",
     "刷題庫/cards/交大 100 數學.md",
     "刷題庫/2026.8.16/2026.8.15 meet.xopp",
-    "刷題庫/pptB26.tmp",
-    "刷題庫/~$2026_8.pptx",
-    "刷題庫/ppt2B20.tmp",
-    "刷題庫/ppt4AF8.tmp",
     "交大/109/Overall.md",
     "知識庫/DM/DM_mindmap.md",
     "知識庫/DM/relation.md",
@@ -220,10 +223,6 @@
     "知識庫/CO/H_CO_CH2.md",
     "知識庫/OS/OS_CH2.md",
     "錯題庫/cards/default.md",
-    "錯題庫/Overall.md",
-    "考研 ALL.md",
-    "考研 DM.md",
-    "考研 AM.md",
     "img/Pasted image 20260724133427.png",
     "img/Pasted image 20260707113013.png",
     "img/Pasted image 20260619194251.png",
