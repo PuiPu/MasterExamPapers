@@ -4,21 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "80049f740185801d",
+        "id": "ce4b2b43b5703d76",
         "type": "tabs",
         "children": [
           {
-            "id": "56445342f67840da",
+            "id": "4865d8420215987b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dashboard/Exam_Dashboard.md",
-                "mode": "preview",
-                "source": true
+                "file": "03 Cards/CO/Cache.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Exam_Dashboard"
+              "title": "Cache"
+            }
+          },
+          {
+            "id": "ca7b2430687d2c9b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d2e8702282dc72b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3d193b03bd074f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Backbone/CO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CO"
             }
           }
         ]
@@ -96,10 +126,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "03 Cards/CO/Cache.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -163,8 +194,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "cb766c43c6122c01",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -184,39 +226,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "56445342f67840da",
+  "active": "4865d8420215987b",
   "lastOpenFiles": [
-    "02 Backbone/OS.md",
-    "90 Templates/考點 card.md",
-    "90 Templates/Concept_Card_Template.md",
-    "03 Cards/CO/Array_Address.md",
-    "03 Cards/CO/MIPS_Addressing.md",
-    "03 Cards/CO/Procedure_Call.md",
-    "03 Cards/CO/Instruction_Format.md",
+    "03 Cards/CO/Rounding.md",
+    "02 Backbone/CO.md",
+    "03 Cards/CO/Floating_Point.md",
     "03 Cards/CO/Cache.md",
-    "01 Dashboard/Exam_Dashboard.md",
-    "02 Backbone/LA.md",
+    "03 Cards/OS/Thread_process.md",
+    "Arithmetic.md",
+    "03 Cards/CO/MIPS_Addressing.md",
+    "03 Cards/CO/Arithmetic.md",
+    "03 Cards/CO/Array_Address.md",
+    "03 Cards/CO/Instruction_Format.md",
+    "03 Cards/CO/Procedure_Call.md",
+    "03 Cards/OS/Process.md",
+    "02 Backbone/AM.md",
     "02 Backbone/DM.md",
     "02 Backbone/DS.md",
-    "02 Backbone/CO.md",
-    "02 Backbone/AM.md",
+    "02 Backbone/OS.md",
+    "02 Backbone/LA.md",
+    "01 Dashboard/Exam_Dashboard.md",
+    "orignal/成大資訊聯招/108/108成大_計算機組織與系統.pdf",
+    "orignal/成大資訊聯招/113/113成大_計算機組織與系統.pdf",
+    "orignal/台大資工/110台大_資料結構與演算法A.pdf",
+    "orignal/台大資工/110台大_計算機結構與作業系統B.pdf",
+    "orignal/台大資工/109台大_計算機結構與作業系統B.pdf",
+    "orignal/台大資工/100台大_計算機系統.pdf",
+    "orignal/台大資工/100台大_軟體設計.pdf",
+    "orignal/中央資工/113中央_作業系統與計算機組織.pdf",
+    "orignal/中央資工/110中央_作業系統與計算機組織.pdf",
+    "orignal/中央資工/102中央_作業系統與計算機組織.pdf",
+    "README.md",
+    "90 Templates/考點 card.md",
+    "90 Templates/Concept_Card_Template.md",
     "03 Cards/CO/Array Address.md",
     "01 Dashboard/Overview.md",
-    "Obsidian_考研知識樹_使用說明書.pdf",
     "03 Cards/CO/MIPS Addressing.md",
-    "README.md",
-    "README.md",
-    "Untitled.base",
     "00 NoLongerNeeded(previous)/README.md",
     "Process.md",
-    "orignal/中央資工/91中央_線性代數.pdf",
-    "00 NoLongerNeeded(previous)/成大/113/成大113數.pdf",
-    "00 NoLongerNeeded(previous)/知識庫/OS/OS CH1.pptx",
-    "00 NoLongerNeeded(previous)/交大/109/交109硬.pdf",
-    "00 NoLongerNeeded(previous)/刷題庫/2026.8.16/2026_8.pptx",
-    "00 NoLongerNeeded(previous)/刷題庫/2026.8.16/2026.8.16 meet.xopp",
-    "00 NoLongerNeeded(previous)/刷題庫/2026.8.16/2026.8.16 meet.pdf",
-    "00 NoLongerNeeded(previous)/刷題庫/2026.8.16/2026.8.15 meet.xopp",
     "img/Pasted image 20260818155327.png",
     "img/Pasted image 20260818155315.png",
     "img/Pasted image 20260818155259.png",
