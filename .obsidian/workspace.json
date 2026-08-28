@@ -8,37 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4865d8420215987b",
+            "id": "6163d2d0fe536f7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Cards/CO/Cache.md",
+                "file": "04 Daily/2026-08-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cache"
+              "title": "2026-08-28"
             }
           },
           {
-            "id": "ca7b2430687d2c9b",
+            "id": "8964fce3d7e5cc43",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "pdf",
+              "state": {
+                "file": "LATEX_SYMBOL.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LATEX_SYMBOL"
+            }
+          },
+          {
+            "id": "e20a3103914bd68e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Dashboard/Exam_Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Exam_Dashboard"
             }
           }
         ]
       },
       {
-        "id": "d2e8702282dc72b2",
+        "id": "1030021887ad0c39",
         "type": "tabs",
         "children": [
           {
-            "id": "c3d193b03bd074f7",
+            "id": "ca7b2430687d2c9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Daily/2026-08-28.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-28"
+            }
+          },
+          {
+            "id": "d979710741f5053a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,7 +81,8 @@
               "title": "CO"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,44 +257,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4865d8420215987b",
+  "active": "6163d2d0fe536f7b",
   "lastOpenFiles": [
-    "03 Cards/CO/Rounding.md",
+    "01 Dashboard/Exam_Dashboard.md",
+    "LATEX_SYMBOL.pdf",
     "02 Backbone/CO.md",
-    "03 Cards/CO/Floating_Point.md",
+    "03 Cards/CO/ISA.md",
+    "04 Daily/2026-08-28.md",
+    "03 Cards/CO/MIPS_Addressing.md",
+    "03 Cards/CO/Array_Address.md",
     "03 Cards/CO/Cache.md",
+    "03 Cards/CO/Floating_Point.md",
+    "img/94294.jpg",
+    "90 Templates/Concept_Card_Template.md",
+    "03 Cards/CO/Performance.md",
+    "03 Cards/CO/Rounding.md",
+    "fdsfd.md",
+    "03 Cards/CO/Procedure_Call.md",
+    "03 Cards/CO/Instruction_Format.md",
+    "Power.md",
+    "90 Templates/Daily_PastExams_Log_Template.md",
+    "02 Backbone/AM.md",
+    "90 Templates/TestPoints_Card_Template.md",
+    "orignal/交大資訊聯招/104交大_計算機系統.pdf",
+    "orignal/交大資訊聯招/103交大_計算機系統.pdf",
+    "orignal/交大資訊聯招/102交大_計算機系統.pdf",
+    "orignal/交大資訊聯招/101交大_計算機組織.pdf",
     "03 Cards/OS/Thread_process.md",
     "Arithmetic.md",
-    "03 Cards/CO/MIPS_Addressing.md",
     "03 Cards/CO/Arithmetic.md",
-    "03 Cards/CO/Array_Address.md",
-    "03 Cards/CO/Instruction_Format.md",
-    "03 Cards/CO/Procedure_Call.md",
     "03 Cards/OS/Process.md",
-    "02 Backbone/AM.md",
     "02 Backbone/DM.md",
     "02 Backbone/DS.md",
     "02 Backbone/OS.md",
-    "02 Backbone/LA.md",
-    "01 Dashboard/Exam_Dashboard.md",
     "orignal/成大資訊聯招/108/108成大_計算機組織與系統.pdf",
     "orignal/成大資訊聯招/113/113成大_計算機組織與系統.pdf",
     "orignal/台大資工/110台大_資料結構與演算法A.pdf",
     "orignal/台大資工/110台大_計算機結構與作業系統B.pdf",
     "orignal/台大資工/109台大_計算機結構與作業系統B.pdf",
-    "orignal/台大資工/100台大_計算機系統.pdf",
-    "orignal/台大資工/100台大_軟體設計.pdf",
-    "orignal/中央資工/113中央_作業系統與計算機組織.pdf",
-    "orignal/中央資工/110中央_作業系統與計算機組織.pdf",
-    "orignal/中央資工/102中央_作業系統與計算機組織.pdf",
-    "README.md",
-    "90 Templates/考點 card.md",
-    "90 Templates/Concept_Card_Template.md",
-    "03 Cards/CO/Array Address.md",
-    "01 Dashboard/Overview.md",
-    "03 Cards/CO/MIPS Addressing.md",
-    "00 NoLongerNeeded(previous)/README.md",
-    "Process.md",
     "img/Pasted image 20260818155327.png",
     "img/Pasted image 20260818155315.png",
     "img/Pasted image 20260818155259.png",
@@ -272,7 +303,6 @@
     "img/Pasted image 20260816121803.png",
     "img/Pasted image 20260816085046.png",
     "img/Pasted image 20260816084456.png",
-    "img/Pasted image 20260816084421.png",
-    "img/Pasted image 20260816084311.png"
+    "img/Pasted image 20260816084421.png"
   ]
 }

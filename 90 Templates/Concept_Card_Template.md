@@ -1,4 +1,4 @@
-﻿---
+---
 type: card
 subject:
 chapter:
@@ -6,13 +6,24 @@ status: red
 parent:
 ---
 
-# {{title}}
+# title
 
 ## 核心
--
+- 
 
 ## 我容易錯
--
+- 
 
 ## 延伸
--
+- 
+---
+# title
+
+## 核心
+- 
+
+## 我容易錯
+- 
+
+## 延伸
+- 
