@@ -4,85 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ce4b2b43b5703d76",
+        "id": "6b0f5109e815c966",
         "type": "tabs",
         "children": [
           {
-            "id": "6163d2d0fe536f7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Daily/2026-08-28.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-28"
-            }
-          },
-          {
-            "id": "8964fce3d7e5cc43",
+            "id": "2bd95df4b8a84d1e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "LATEX_SYMBOL.pdf"
+                "file": "orignal/成大資訊聯招/102以前考題(成大資工)/102成大_計算機數學.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "LATEX_SYMBOL"
-            }
-          },
-          {
-            "id": "e20a3103914bd68e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dashboard/Exam_Dashboard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exam_Dashboard"
+              "title": "102成大_計算機數學"
             }
           }
         ]
-      },
-      {
-        "id": "1030021887ad0c39",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ca7b2430687d2c9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Daily/2026-08-28.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-28"
-            }
-          },
-          {
-            "id": "d979710741f5053a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Backbone/CO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CO"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,16 +194,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6163d2d0fe536f7b",
+  "active": "2bd95df4b8a84d1e",
   "lastOpenFiles": [
-    "01 Dashboard/Exam_Dashboard.md",
+    "orignal/台大資工/111台大_計算機結構與作業系統B.pdf",
+    "orignal/台大資工/100台大_計算機系統.pdf",
+    "orignal/交大資訊聯招/102交大_計算機系統.pdf",
     "LATEX_SYMBOL.pdf",
+    "03 Cards/DM/Number_Theorem.md",
+    "04 Daily/2026-08-29.md",
+    "03 Cards/DM/Counting.md",
+    "03 Cards/DM/Recursion.md",
+    "02 Backbone/DM.md",
+    "03 Cards/DM/Logic.md",
+    "img/Pasted image 20260829172634.png",
+    "04 Daily/2026-08-28.md",
+    "01 Dashboard/Exam_Dashboard.md",
+    "orignal/交大資訊聯招/101交大_線性代數與離散數學.pdf",
+    "orignal/交大資訊聯招/101交大_線性代數與機率.pdf",
+    "03 Cards/CO/Cache.md",
+    "img/Pasted image 20260828224256.png",
     "02 Backbone/CO.md",
     "03 Cards/CO/ISA.md",
-    "04 Daily/2026-08-28.md",
     "03 Cards/CO/MIPS_Addressing.md",
     "03 Cards/CO/Array_Address.md",
-    "03 Cards/CO/Cache.md",
     "03 Cards/CO/Floating_Point.md",
     "img/94294.jpg",
     "90 Templates/Concept_Card_Template.md",
@@ -281,28 +231,16 @@
     "90 Templates/TestPoints_Card_Template.md",
     "orignal/交大資訊聯招/104交大_計算機系統.pdf",
     "orignal/交大資訊聯招/103交大_計算機系統.pdf",
-    "orignal/交大資訊聯招/102交大_計算機系統.pdf",
     "orignal/交大資訊聯招/101交大_計算機組織.pdf",
     "03 Cards/OS/Thread_process.md",
-    "Arithmetic.md",
-    "03 Cards/CO/Arithmetic.md",
-    "03 Cards/OS/Process.md",
-    "02 Backbone/DM.md",
-    "02 Backbone/DS.md",
-    "02 Backbone/OS.md",
     "orignal/成大資訊聯招/108/108成大_計算機組織與系統.pdf",
     "orignal/成大資訊聯招/113/113成大_計算機組織與系統.pdf",
-    "orignal/台大資工/110台大_資料結構與演算法A.pdf",
-    "orignal/台大資工/110台大_計算機結構與作業系統B.pdf",
-    "orignal/台大資工/109台大_計算機結構與作業系統B.pdf",
     "img/Pasted image 20260818155327.png",
     "img/Pasted image 20260818155315.png",
     "img/Pasted image 20260818155259.png",
     "img/Pasted image 20260818155246.png",
     "img/Pasted image 20260818155230.png",
     "img/Pasted image 20260816121803.png",
-    "img/Pasted image 20260816085046.png",
-    "img/Pasted image 20260816084456.png",
-    "img/Pasted image 20260816084421.png"
+    "img/Pasted image 20260816085046.png"
   ]
 }
