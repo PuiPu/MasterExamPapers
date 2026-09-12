@@ -39,4 +39,20 @@ parent: "[[CO]]"
 	- ![[Pasted image 20260828224256.png]]
 
 ## 延伸
--
+- 
+---
+# 問題
+
+## 核心
+- Q1: huge page table
+	- sol 1: 
+	- sol 2: 
+	- sol 3: 
+
+## 我容易錯
+- 
+
+## 延伸
+- Cache Mapping
+- Cache Miss
+- AMAT

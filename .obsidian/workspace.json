@@ -18,8 +18,21 @@
               "icon": "lucide-file-text",
               "title": "102成大_計算機數學"
             }
+          },
+          {
+            "id": "53f9f80012c796c4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "orignal/台大資工/98台大_軟體設計.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "98台大_軟體設計"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,12 +207,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bd95df4b8a84d1e",
+  "active": "53f9f80012c796c4",
   "lastOpenFiles": [
-    "orignal/台大資工/111台大_計算機結構與作業系統B.pdf",
-    "orignal/台大資工/100台大_計算機系統.pdf",
-    "orignal/交大資訊聯招/102交大_計算機系統.pdf",
-    "LATEX_SYMBOL.pdf",
+    "orignal/成大資訊聯招/102以前考題(成大資工)/102成大_計算機數學.pdf",
+    "orignal/台大資工/98台大_軟體設計.pdf",
+    "orignal/交大資訊聯招/109交大_資料結構與演算法.pdf",
+    "orignal/交大資訊聯招/109交大_資料結構與演算法 1.pdf",
+    "orignal/交大資訊聯招/109交大_計算機系統.pdf",
+    "orignal/交大資訊聯招/99交大_資料結構與演算法.pdf",
+    "orignal/交大資訊聯招/100交大_作業系統.pdf",
+    "orignal/交大資訊聯招/99交大_計算機組織.pdf",
+    "orignal/交大資訊聯招/114_交大資結與演算法.pdf",
+    "orignal/交大資訊聯招/110交大_資料結構與演算法.pdf",
+    "orignal/交大資訊聯招/113交大_軟體.pdf",
+    "03 Cards/CO/Virtual_Memory.md",
+    "03 Cards/CO/Cache.md",
+    "02 Backbone/CO.md",
+    "orignal/台大資工/90台大_計算機系統2.jpg",
+    "orignal/台大資工/85台大_計算機系統.jpg",
+    "orignal/台大資工/89台大_計算機系統1.jpg",
+    "orignal/台大資工/90台大_計算機系統1.jpg",
     "03 Cards/DM/Number_Theorem.md",
     "04 Daily/2026-08-29.md",
     "03 Cards/DM/Counting.md",
@@ -209,11 +236,7 @@
     "img/Pasted image 20260829172634.png",
     "04 Daily/2026-08-28.md",
     "01 Dashboard/Exam_Dashboard.md",
-    "orignal/交大資訊聯招/101交大_線性代數與離散數學.pdf",
-    "orignal/交大資訊聯招/101交大_線性代數與機率.pdf",
-    "03 Cards/CO/Cache.md",
     "img/Pasted image 20260828224256.png",
-    "02 Backbone/CO.md",
     "03 Cards/CO/ISA.md",
     "03 Cards/CO/MIPS_Addressing.md",
     "03 Cards/CO/Array_Address.md",
@@ -229,18 +252,8 @@
     "90 Templates/Daily_PastExams_Log_Template.md",
     "02 Backbone/AM.md",
     "90 Templates/TestPoints_Card_Template.md",
-    "orignal/交大資訊聯招/104交大_計算機系統.pdf",
-    "orignal/交大資訊聯招/103交大_計算機系統.pdf",
-    "orignal/交大資訊聯招/101交大_計算機組織.pdf",
-    "03 Cards/OS/Thread_process.md",
-    "orignal/成大資訊聯招/108/108成大_計算機組織與系統.pdf",
-    "orignal/成大資訊聯招/113/113成大_計算機組織與系統.pdf",
     "img/Pasted image 20260818155327.png",
     "img/Pasted image 20260818155315.png",
-    "img/Pasted image 20260818155259.png",
-    "img/Pasted image 20260818155246.png",
-    "img/Pasted image 20260818155230.png",
-    "img/Pasted image 20260816121803.png",
-    "img/Pasted image 20260816085046.png"
+    "img/Pasted image 20260818155259.png"
   ]
 }
